@@ -1,0 +1,5 @@
+img {
+  object-fit: contain;
+}
+
+/* normally I add some CSS reset, but since I'm using the component library I don't want to temper with it too much */
